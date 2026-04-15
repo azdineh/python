@@ -1,4 +1,4 @@
-Sujets – Cours Python
+# Cours Python - Sujets 2026
 
 
 ## Fonctionnement de Python
@@ -127,6 +127,7 @@ Sujets – Cours Python
 - Utilisation de :
 ```python
 if __name__ == "__main__":
+```
 
 ---
 
