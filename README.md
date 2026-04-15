@@ -136,6 +136,7 @@ if __name__ == "__main__":
 ## List comprehension
 ```python
 liste = [expression for element in iterable if condition]
+```
 
 ---
 
@@ -146,6 +147,7 @@ L’encodage dépend du système d’exploitation :
 ```python
 with open("fichier.txt", "r", encoding="utf-8") as f:
     contenu = f.read()
+```
 
 ---
 ## Programmation Orientée Objet (POO) 
