@@ -50,7 +50,7 @@
 - Parcours d’une liste  
 - Fonction `range()`  
 - Fonction `enumerate()`
-- Fonction: zip()`
+- Fonction: `zip()`
 
 
 ---
