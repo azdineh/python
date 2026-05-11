@@ -149,5 +149,7 @@ with open("fichier.txt", "r", encoding="utf-8") as f:
     contenu = f.read()
 ```
 
----
 ## Programmation Orientée Objet (POO) 
+
+## Méthode Dunders (magic methods)
+- surchargement d'opérateurs : +, *, >, == 
